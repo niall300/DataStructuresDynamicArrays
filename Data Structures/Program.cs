@@ -10,6 +10,11 @@ namespace Data_Structures
     {
         static void Main(string[] args)
         {
+
+            for (int i = 0; i < length; i++)
+            {
+
+            }
         }
     }
 }
